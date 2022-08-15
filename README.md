@@ -1,1 +1,2 @@
-# videoLengthCalculator
+# VideoLengthCalculator
+Uses ffmpeg
