@@ -12,7 +12,12 @@ brew install ffmpeg
 chmod +rwx main.sh
 ```
 
-3.Run!
+3.Run
 ```console
 ./main.sh
+```
+4.Voila!
+```
+Calculating...
+RESULT: 31:00:21.00
 ```
