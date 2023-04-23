@@ -1,22 +1,19 @@
 # VideoLengthCalculator
 
-0.Install ```ffmpeg```
+0. Install ```ffmpeg```
 ```bash
 brew install ffmpeg
 ````
 
-1.Move the ```main.sh``` script to ```myShittyVideos``` folder
-
-2.Give permissions 
+1. Run ```setup.sh``` script
 ```console
-chmod +rwx main.sh
+./setup.sh
 ```
-
-3.Run
+2. You can use it everywhere now
 ```console
-./main.sh
+vidlengthcalc
 ```
-4.Voila!
+3. Voila!
 ```
 Calculating...
 RESULT: 31:00:21.00
